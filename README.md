@@ -24,18 +24,6 @@ The food delivery industry in Canada has grown significantly in recent years, an
 - The insights gained from this project can help restaurant owners, food delivery companies, and policymakers to make data-driven decisions and optimize their services.
 
 
-Data Description:
-Order Id: Unique identifier for each order
-Customer Id: Unique identifier for each customer
-Restaurant: Name of the restaurant
-Item: Name of the food item ordered
-Quantity: Number of items ordered
-Price: Price of the food item
-Date: Date of the order
-Time: Time of the order
-Delivery Fee: Fee charged for delivery
-Driver Tip: Amount of tip given to the driver
-Total Price: Total price of the order (including taxes, delivery fee, and driver tip)
 
 Data Analysis:
 The data analysis will involve the following steps:
